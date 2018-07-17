@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">9277</string>
+    <string name="login_url">http://192.168.171.254:8887/</string>
+    <string-array name="account_list">
+        <item>lisi</item>
+        <item>zhangsan</item>
+        <item>wangwu</item>
+        <item>zhaoliu</item>
+    </string-array>
+    <string-array name="coffee_list">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+    <!--<string-array name="drinks_list">-->
+        <!--<item>Latte</item>-->
+        <!--<item>Cappuccino</item>-->
+        <!--<item>Filter</item>-->
+    <!--</string-array>-->
+    <string name="OK">OK</string>
+    <string name="Close">Close</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

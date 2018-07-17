@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.wanghaiyan.myfirstapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.wanghaiyan.myfirstapp.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="*/*" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.wanghaiyan.myfirstapp.AccountListActivity" />
+        <activity android:name="com.example.wanghaiyan.myfirstapp.FrameActivity" />
+        <activity android:name="com.example.wanghaiyan.myfirstapp.TAbleActivity" />
+
+        <service
+            android:name="com.example.wanghaiyan.myfirstapp.MyService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name="com.example.wanghaiyan.myfirstapp.StopwatchActivity" />
+        <!-- <activity android:name=".StopwatchActivity" -->
+        <!-- android:configChanges="orientation|screenSize"/> -->
+        <activity android:name="com.example.wanghaiyan.myfirstapp.StarbuzzActivity" />
+        <activity android:name="com.example.wanghaiyan.myfirstapp.DetailActivity" />
+        <activity android:name="com.example.wanghaiyan.myfirstapp.SelectActivity" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.example.wanghaiyan.myfirstapp.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

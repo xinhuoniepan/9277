@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorOrange">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorGainsboro"
+        android:paddingTop="22dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+
+            <ImageButton
+                android:id="@+id/humburger"
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:background="@mipmap/humburgericon"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/app_name"
+                android:textColor="@color/colorPrimary"
+                android:layout_centerInParent="true"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                />
+
+            <Switch
+                android:id="@+id/network"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:text="Net " />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <Button
+                    android:id="@+id/connOnClick"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="百度"/>
+                <Button
+                    android:id="@+id/accoutOnClick"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Account"/>
+                <Button
+                    android:id="@+id/callOnClick"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="CALL"/>
+                <Button
+                    android:id="@+id/smsOnClick"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="SMS"/>
+                <Button
+                    android:id="@+id/spinnerOnClick"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="spinner"/>
+                <TableLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TableRow>
+                        <Button
+                            android:id="@+id/appOut"
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:text="appOut"/>
+                        <Button
+                            android:id="@+id/startService"
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:text="startService"/>
+                        <Button
+                            android:id="@+id/stopService"
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:text="stopService"/>
+                    </TableRow>
+                    <TableRow>
+                        <Button
+                            android:id="@+id/stopwatch"
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:text="stopwatch"/>
+                        <Button
+                            android:id="@+id/starbuzz"
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:text="starbuzz"/>
+                        <ToggleButton
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:textOn="On"
+                            android:textOff="Off"/>
+                    </TableRow>
+
+                </TableLayout>
+
+
+
+                <TextView
+                    android:id="@+id/show_text"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_height="52dp"
+                    android:text="Hello World!12345678912345678912345678912345678912345678945613"
+                    android:singleLine="true"
+                    android:ellipsize="marquee"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:textSize="20sp"
+                    android:gravity="center"
+                    android:background="@drawable/shape"/>
+
+                <Spinner
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:id="@+id/spinnerContents"
+                    android:background="@color/colorWhite"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="20dp"
+                    android:layout_below="@+id/textView"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="25dp" />
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+
+
+</LinearLayout>

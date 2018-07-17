@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:design:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c88090b5d3caae10da2c5784bfe73fc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bcad99410b11320390f01711d2b53e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d88b359d191cbace59aac3a4e4b60441/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c15e5f74dcca6addac628271fcfb8862/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8feac7bf9d9e6033be8076bf59a75fb5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/70079a424e01f4e0918a1e5e0b127657/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/df432ff02de990849cef5767a8da4b59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6815327d08fe3e195725567d47856397/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b3b0666e548514444f69f87492f005e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9c72a75d90bd6a6151f4f19d0c22c7f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b3b4e629b3bce52aeab8feaa405e7940/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6a51a5c4fe68fd57ff0776af12784941/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e015009db31b7707b8ce4b055d7995e9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7ddb42dd8c96d40284cf71013672b36f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d416fa3c8cc21d77ac2f55b6c6c6ae51/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7bfa09d15b5bc23590c6f419a2764aa7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/553f8c1cac67e4a786ead02634c2102b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:8:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:11:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d88b359d191cbace59aac3a4e4b60441/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d88b359d191cbace59aac3a4e4b60441/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.example.wanghaiyan.myfirstapp.MainActivity
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:18:9-29:20
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+data:mimeType:*/*
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:19:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:20:25-66
+action#android.intent.action.SEND
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:23:27-73
+data
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:25:17-48
+	android:mimeType
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:25:23-45
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:27:27-74
+activity#com.example.wanghaiyan.myfirstapp.AccountListActivity
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:30:9-57
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:30:19-54
+activity#com.example.wanghaiyan.myfirstapp.FrameActivity
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:31:9-51
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:31:19-48
+activity#com.example.wanghaiyan.myfirstapp.TAbleActivity
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:32:9-51
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:32:19-48
+service#com.example.wanghaiyan.myfirstapp.MyService
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:34:9-37:39
+	android:enabled
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:35:13-38
+activity#com.example.wanghaiyan.myfirstapp.StopwatchActivity
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:39:9-55
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:39:19-52
+activity#com.example.wanghaiyan.myfirstapp.StarbuzzActivity
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:42:9-54
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:42:19-51
+activity#com.example.wanghaiyan.myfirstapp.DetailActivity
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:43:9-52
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:43:19-49
+activity#com.example.wanghaiyan.myfirstapp.SelectActivity
+ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:44:9-61
+	android:name
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml:44:19-49
+uses-sdk
+INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c88090b5d3caae10da2c5784bfe73fc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c88090b5d3caae10da2c5784bfe73fc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bcad99410b11320390f01711d2b53e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bcad99410b11320390f01711d2b53e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d88b359d191cbace59aac3a4e4b60441/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d88b359d191cbace59aac3a4e4b60441/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c15e5f74dcca6addac628271fcfb8862/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c15e5f74dcca6addac628271fcfb8862/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8feac7bf9d9e6033be8076bf59a75fb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8feac7bf9d9e6033be8076bf59a75fb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/70079a424e01f4e0918a1e5e0b127657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/70079a424e01f4e0918a1e5e0b127657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/df432ff02de990849cef5767a8da4b59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/df432ff02de990849cef5767a8da4b59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6815327d08fe3e195725567d47856397/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6815327d08fe3e195725567d47856397/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b3b0666e548514444f69f87492f005e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b3b0666e548514444f69f87492f005e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9c72a75d90bd6a6151f4f19d0c22c7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9c72a75d90bd6a6151f4f19d0c22c7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b3b4e629b3bce52aeab8feaa405e7940/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b3b4e629b3bce52aeab8feaa405e7940/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6a51a5c4fe68fd57ff0776af12784941/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6a51a5c4fe68fd57ff0776af12784941/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e015009db31b7707b8ce4b055d7995e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e015009db31b7707b8ce4b055d7995e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7ddb42dd8c96d40284cf71013672b36f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7ddb42dd8c96d40284cf71013672b36f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d416fa3c8cc21d77ac2f55b6c6c6ae51/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d416fa3c8cc21d77ac2f55b6c6c6ae51/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7bfa09d15b5bc23590c6f419a2764aa7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7bfa09d15b5bc23590c6f419a2764aa7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/553f8c1cac67e4a786ead02634c2102b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/wanghaiyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/553f8c1cac67e4a786ead02634c2102b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wanghaiyan/Desktop/workspace/app/src/main/AndroidManifest.xml
